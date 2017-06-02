@@ -1,2 +1,0 @@
-# sisei
-Projeto Sisei
